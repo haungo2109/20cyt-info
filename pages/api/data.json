@@ -1,19 +1,6 @@
 {
     "sheet1": [
         {
-            "id": "0",
-            "email": "mngxuankieu1905@gmail.com",
-            "firstname": "Mai Nguyễn Xuân",
-            "name": "Kiều",
-            "faculty": "Khoa Công nghệ thông tin",
-            "id_student": "1954052044",
-            "time": "s",
-            "phone": "0374727547",
-            "id_code": "20CYT-000",
-            "money": "25000",
-            "note": "Tiền mặt"
-        },
-        {
             "id": "1",
             "email": "1854050077nhung@ou.edu.vn",
             "firstname": "Trần Nguyễn Tuyết ",
@@ -21,9 +8,7 @@
             "faculty": "Khoa Công nghệ thông tin",
             "id_student": "1854050077",
             "time": "s",
-            "id_code": "20CYT-001",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-001"
         },
         {
             "id": "2",
@@ -34,9 +19,7 @@
             "id_student": "1854040390",
             "time": "s",
             "phone": "0703578245",
-            "id_code": "20CYT-002",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-002"
         },
         {
             "id": "3",
@@ -47,9 +30,7 @@
             "id_student": "1854040334",
             "time": "s",
             "phone": "0784499361",
-            "id_code": "20CYT-003",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-003"
         },
         {
             "id": "4",
@@ -60,9 +41,7 @@
             "id_student": "1951050041",
             "time": "s",
             "phone": "0347247649",
-            "id_code": "20CYT-004",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-004"
         },
         {
             "id": "5",
@@ -73,9 +52,7 @@
             "id_student": "1751010182",
             "time": "s",
             "phone": "0399652356",
-            "id_code": "20CYT-005",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-005"
         },
         {
             "id": "6",
@@ -86,9 +63,7 @@
             "id_student": "1751010121",
             "time": "s",
             "phone": "0385367320",
-            "id_code": "20CYT-006",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-006"
         },
         {
             "id": "7",
@@ -99,9 +74,7 @@
             "id_student": "1951010046",
             "time": "s",
             "phone": "0356918851",
-            "id_code": "20CYT-007",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-007"
         },
         {
             "id": "8",
@@ -112,9 +85,7 @@
             "id_student": "1951052040",
             "time": "s",
             "phone": "0358841516",
-            "id_code": "20CYT-008",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-008"
         },
         {
             "id": "9",
@@ -125,9 +96,7 @@
             "id_student": "2054082099",
             "time": "s",
             "phone": "0933898622",
-            "id_code": "20CYT-009",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-009"
         },
         {
             "id": "10",
@@ -138,9 +107,7 @@
             "id_student": "1854080138",
             "time": "s",
             "phone": "0832007080",
-            "id_code": "20CYT-010",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-010"
         },
         {
             "id": "11",
@@ -151,9 +118,7 @@
             "id_student": "2054082083",
             "time": "s",
             "phone": "0903700403",
-            "id_code": "20CYT-011",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-011"
         },
         {
             "id": "12",
@@ -164,9 +129,7 @@
             "id_student": "1854010145",
             "time": "s",
             "phone": "0386518804",
-            "id_code": "20CYT-012",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-012"
         },
         {
             "id": "13",
@@ -177,9 +140,7 @@
             "id_student": "1957012061",
             "time": "s",
             "phone": "0902953905",
-            "id_code": "20CYT-013",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-013"
         },
         {
             "id": "14",
@@ -190,9 +151,7 @@
             "id_student": "2054082009",
             "time": "s",
             "phone": "0911760113",
-            "id_code": "20CYT-014",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-014"
         },
         {
             "id": "15",
@@ -203,9 +162,7 @@
             "id_student": "1957052061",
             "time": "s",
             "phone": "0938373262",
-            "id_code": "20CYT-015",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-015"
         },
         {
             "id": "16",
@@ -216,9 +173,7 @@
             "id_student": "1957052010",
             "time": "s",
             "phone": "0764878150",
-            "id_code": "20CYT-016",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-016"
         },
         {
             "id": "17",
@@ -229,9 +184,7 @@
             "id_student": "1857050074",
             "time": "s",
             "phone": "0932601556",
-            "id_code": "20CYT-017",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-017"
         },
         {
             "id": "18",
@@ -242,9 +195,7 @@
             "id_student": "1957012134",
             "time": "s",
             "phone": "0899450561",
-            "id_code": "20CYT-018",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-018"
         },
         {
             "id": "19",
@@ -255,9 +206,7 @@
             "id_student": "2054032574",
             "time": "s",
             "phone": "0962127441",
-            "id_code": "20CYT-019",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-019"
         },
         {
             "id": "20",
@@ -268,9 +217,7 @@
             "id_student": "2054080332",
             "time": "s",
             "phone": "0907590638",
-            "id_code": "20CYT-020",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-020"
         },
         {
             "id": "21",
@@ -281,9 +228,7 @@
             "id_student": "2054022045",
             "time": "s",
             "phone": "0968990712",
-            "id_code": "20CYT-021",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-021"
         },
         {
             "id": "22",
@@ -294,9 +239,7 @@
             "id_student": "1957052048",
             "time": "s",
             "phone": "0773055109",
-            "id_code": "20CYT-022",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-022"
         },
         {
             "id": "23",
@@ -307,9 +250,7 @@
             "id_student": "2054052051",
             "time": "s",
             "phone": "0877781892",
-            "id_code": "20CYT-023",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-023"
         },
         {
             "id": "24",
@@ -320,9 +261,7 @@
             "id_student": "1854020224",
             "time": "s",
             "phone": "0856633088",
-            "id_code": "20CYT-024",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-024"
         },
         {
             "id": "25",
@@ -333,9 +272,7 @@
             "id_student": "1954040112",
             "time": "s",
             "phone": "0903467378",
-            "id_code": "20CYT-025",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-025"
         },
         {
             "id": "26",
@@ -346,9 +283,7 @@
             "id_student": "1856022008",
             "time": "s",
             "phone": "0382017489",
-            "id_code": "20CYT-026",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-026"
         },
         {
             "id": "27",
@@ -359,9 +294,7 @@
             "id_student": "2054062140",
             "time": "s",
             "phone": "0826333601",
-            "id_code": "20CYT-027",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-027"
         },
         {
             "id": "28",
@@ -372,9 +305,7 @@
             "id_student": "1957052140",
             "time": "s",
             "phone": "0797020634",
-            "id_code": "20CYT-028",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-028"
         },
         {
             "id": "29",
@@ -385,9 +316,7 @@
             "id_student": "1954082095",
             "time": "s",
             "phone": "0866423410",
-            "id_code": "20CYT-029",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-029"
         },
         {
             "id": "30",
@@ -398,9 +327,7 @@
             "id_student": "1854020169",
             "time": "s",
             "phone": "0979625901",
-            "id_code": "20CYT-030",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-030"
         },
         {
             "id": "31",
@@ -411,9 +338,7 @@
             "id_student": "1854030189",
             "time": "s",
             "phone": "0865342287",
-            "id_code": "20CYT-031",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-031"
         },
         {
             "id": "32",
@@ -424,9 +349,7 @@
             "id_student": "1957012193",
             "time": "s",
             "phone": "0944057409",
-            "id_code": "20CYT-032",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-032"
         },
         {
             "id": "33",
@@ -437,9 +360,7 @@
             "id_student": "1954042076",
             "time": "s",
             "phone": "0899903562",
-            "id_code": "20CYT-033",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-033"
         },
         {
             "id": "34",
@@ -450,9 +371,7 @@
             "id_student": "1854020211",
             "time": "s",
             "phone": "0988356185",
-            "id_code": "20CYT-034",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-034"
         },
         {
             "id": "35",
@@ -463,9 +382,7 @@
             "id_student": "1957012280",
             "time": "s",
             "phone": "0916106829",
-            "id_code": "20CYT-035",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-035"
         },
         {
             "id": "36",
@@ -476,9 +393,7 @@
             "id_student": "1957010044",
             "time": "s",
             "phone": "0326833042",
-            "id_code": "20CYT-036",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-036"
         },
         {
             "id": "37",
@@ -489,9 +404,7 @@
             "id_student": "1851010129",
             "time": "s",
             "phone": "0365708408",
-            "id_code": "20CYT-037",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-037"
         },
         {
             "id": "38",
@@ -502,9 +415,7 @@
             "id_student": "2054082028",
             "time": "s",
             "phone": "0362137636",
-            "id_code": "20CYT-038",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-038"
         },
         {
             "id": "39",
@@ -515,9 +426,7 @@
             "id_student": "1954082020",
             "time": "s",
             "phone": "0943372910",
-            "id_code": "20CYT-039",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-039"
         },
         {
             "id": "40",
@@ -528,9 +437,7 @@
             "id_student": "1854030466",
             "time": "s",
             "phone": "0932049456",
-            "id_code": "20CYT-040",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-040"
         },
         {
             "id": "41",
@@ -541,9 +448,7 @@
             "id_student": "1854010379",
             "time": "s",
             "phone": "0964878243",
-            "id_code": "20CYT-041",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-041"
         },
         {
             "id": "42",
@@ -554,9 +459,7 @@
             "id_student": "1854010459",
             "time": "s",
             "phone": "0933045776",
-            "id_code": "20CYT-042",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-042"
         },
         {
             "id": "43",
@@ -567,9 +470,7 @@
             "id_student": "1854020017",
             "time": "s",
             "phone": "0932573969",
-            "id_code": "20CYT-043",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-043"
         },
         {
             "id": "44",
@@ -580,9 +481,7 @@
             "id_student": "1854080074",
             "time": "s",
             "phone": "0383310378",
-            "id_code": "20CYT-044",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-044"
         },
         {
             "id": "45",
@@ -593,9 +492,7 @@
             "id_student": "2057012138",
             "time": "s",
             "phone": "0979727687",
-            "id_code": "20CYT-045",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-045"
         },
         {
             "id": "46",
@@ -606,9 +503,7 @@
             "id_student": "1754020085",
             "time": "s",
             "phone": "0343836252",
-            "id_code": "20CYT-046",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-046"
         },
         {
             "id": "47",
@@ -619,9 +514,7 @@
             "id_student": "1754020140",
             "time": "s",
             "phone": "0364536801",
-            "id_code": "20CYT-047",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-047"
         },
         {
             "id": "48",
@@ -632,9 +525,7 @@
             "id_student": "1754020137",
             "time": "s",
             "phone": "0352393922",
-            "id_code": "20CYT-048",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-048"
         },
         {
             "id": "49",
@@ -645,9 +536,7 @@
             "id_student": "1754020084",
             "time": "s",
             "phone": "0399510020",
-            "id_code": "20CYT-049",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-049"
         },
         {
             "id": "50",
@@ -658,9 +547,7 @@
             "id_student": "1754060236",
             "time": "s",
             "phone": "0325974242",
-            "id_code": "20CYT-050",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-050"
         },
         {
             "id": "51",
@@ -671,9 +558,7 @@
             "id_student": "2054032342",
             "time": "c",
             "phone": "905147428",
-            "id_code": "20CYT-051",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-051"
         },
         {
             "id": "52",
@@ -684,9 +569,7 @@
             "id_student": "1754020015",
             "time": "s",
             "phone": "0983656452",
-            "id_code": "20CYT-052",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-052"
         },
         {
             "id": "53",
@@ -697,9 +580,7 @@
             "id_student": "1754020090",
             "time": "s",
             "phone": "0369343954",
-            "id_code": "20CYT-053",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-053"
         },
         {
             "id": "54",
@@ -710,9 +591,7 @@
             "id_student": "1754020182",
             "time": "s",
             "phone": "0386208378",
-            "id_code": "20CYT-054",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-054"
         },
         {
             "id": "55",
@@ -723,9 +602,7 @@
             "id_student": "1754060238",
             "time": "s",
             "phone": "0703595000",
-            "id_code": "20CYT-055",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-055"
         },
         {
             "id": "56",
@@ -736,9 +613,7 @@
             "id_student": "1851010084",
             "time": "s",
             "phone": "0587046936",
-            "id_code": "20CYT-056",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-056"
         },
         {
             "id": "57",
@@ -749,9 +624,7 @@
             "id_student": "1754020075",
             "time": "c",
             "phone": "0786786433",
-            "id_code": "20CYT-057",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-057"
         },
         {
             "id": "58",
@@ -762,9 +635,7 @@
             "id_student": "1754020022",
             "time": "c",
             "phone": "0853242146",
-            "id_code": "20CYT-058",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-058"
         },
         {
             "id": "59",
@@ -775,9 +646,7 @@
             "id_student": "1957012243",
             "time": "c",
             "phone": "0562134478",
-            "id_code": "20CYT-059",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-059"
         },
         {
             "id": "60",
@@ -788,9 +657,7 @@
             "id_student": "1854080041",
             "time": "s",
             "phone": "0347096220",
-            "id_code": "20CYT-060",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-060"
         },
         {
             "id": "61",
@@ -801,9 +668,7 @@
             "id_student": "2051052134",
             "time": "s",
             "phone": "0941104412",
-            "id_code": "20CYT-061",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-061"
         },
         {
             "id": "62",
@@ -814,9 +679,7 @@
             "id_student": "1854080137",
             "time": "s",
             "phone": "0868809520",
-            "id_code": "20CYT-062",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-062"
         },
         {
             "id": "63",
@@ -827,9 +690,7 @@
             "id_student": "1957012319",
             "time": "s",
             "phone": "0829645733",
-            "id_code": "20CYT-063",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-063"
         },
         {
             "id": "64",
@@ -840,9 +701,7 @@
             "id_student": "1854080031",
             "time": "s",
             "phone": "0345136567",
-            "id_code": "20CYT-064",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-064"
         },
         {
             "id": "65",
@@ -853,9 +712,7 @@
             "id_student": "1756010002",
             "time": "s",
             "phone": "0938333107",
-            "id_code": "20CYT-065",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-065"
         },
         {
             "id": "66",
@@ -866,9 +723,7 @@
             "id_student": "1756012035",
             "time": "s",
             "phone": "0367474041",
-            "id_code": "20CYT-066",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-066"
         },
         {
             "id": "67",
@@ -879,9 +734,7 @@
             "id_student": "1957012246",
             "time": "s",
             "phone": "0793591710",
-            "id_code": "20CYT-067",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-067"
         },
         {
             "id": "68",
@@ -892,9 +745,7 @@
             "id_student": "1754060145",
             "time": "s",
             "phone": "0344316223",
-            "id_code": "20CYT-068",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-068"
         },
         {
             "id": "69",
@@ -905,9 +756,7 @@
             "id_student": "1854060092",
             "time": "s",
             "phone": "0366155924",
-            "id_code": "20CYT-069",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-069"
         },
         {
             "id": "70",
@@ -915,11 +764,9 @@
             "firstname": "Nguyễn Nhựt ",
             "name": "Khanh",
             "faculty": "Khoa Công nghệ thông tin",
-            "id_student": "Không mssv",
+            "id_student": "0",
             "time": "s",
-            "id_code": "20CYT-070",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-070"
         },
         {
             "id": "71",
@@ -930,9 +777,7 @@
             "id_student": "1854080132",
             "time": "s",
             "phone": "0345175750",
-            "id_code": "20CYT-071",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-071"
         },
         {
             "id": "72",
@@ -943,9 +788,7 @@
             "id_student": "1951052187",
             "time": "c",
             "phone": "0369456212",
-            "id_code": "20CYT-072",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-072"
         },
         {
             "id": "73",
@@ -956,9 +799,7 @@
             "id_student": "1957052025",
             "time": "s",
             "phone": "0965752244",
-            "id_code": "20CYT-073",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-073"
         },
         {
             "id": "74",
@@ -968,9 +809,7 @@
             "faculty": "Khoa Ngoại ngữ",
             "id_student": "1957052088",
             "time": "s",
-            "id_code": "20CYT-074",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-074"
         },
         {
             "id": "75",
@@ -980,9 +819,7 @@
             "faculty": "Khoa Ngoại ngữ",
             "id_student": "1957052125",
             "time": "s",
-            "id_code": "20CYT-075",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-075"
         },
         {
             "id": "76",
@@ -993,9 +830,7 @@
             "id_student": "2054102053",
             "time": "s",
             "phone": "0938096469",
-            "id_code": "20CYT-076",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-076"
         },
         {
             "id": "77",
@@ -1006,9 +841,7 @@
             "id_student": "2054102064",
             "time": "s",
             "phone": "0906768972",
-            "id_code": "20CYT-077",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-077"
         },
         {
             "id": "78",
@@ -1019,9 +852,7 @@
             "id_student": "1854020181",
             "time": "c",
             "phone": "0905812260",
-            "id_code": "20CYT-078",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-078"
         },
         {
             "id": "79",
@@ -1032,9 +863,7 @@
             "id_student": "2051052127",
             "time": "s",
             "phone": "0353894917",
-            "id_code": "20CYT-079",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-079"
         },
         {
             "id": "80",
@@ -1045,9 +874,7 @@
             "id_student": "2051052140",
             "time": "s",
             "phone": "2051052140",
-            "id_code": "20CYT-080",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-080"
         },
         {
             "id": "81",
@@ -1058,9 +885,7 @@
             "id_student": "2051052141",
             "time": "s",
             "phone": "2051052141",
-            "id_code": "20CYT-081",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-081"
         },
         {
             "id": "82",
@@ -1071,9 +896,7 @@
             "id_student": "2051052068",
             "time": "s",
             "phone": "2051052068",
-            "id_code": "20CYT-082",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-082"
         },
         {
             "id": "83",
@@ -1084,9 +907,7 @@
             "id_student": "2051052086",
             "time": "c",
             "phone": "0708879084",
-            "id_code": "20CYT-083",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-083"
         },
         {
             "id": "84",
@@ -1097,9 +918,7 @@
             "id_student": "1857010314",
             "time": "s",
             "phone": "0326744779",
-            "id_code": "20CYT-084",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-084"
         },
         {
             "id": "85",
@@ -1110,9 +929,7 @@
             "id_student": "2054102078",
             "time": "s",
             "phone": "0327225476",
-            "id_code": "20CYT-085",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-085"
         },
         {
             "id": "86",
@@ -1123,9 +940,7 @@
             "id_student": "1754020026",
             "time": "s",
             "phone": "0946451339",
-            "id_code": "20CYT-086",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-086"
         },
         {
             "id": "87",
@@ -1136,9 +951,7 @@
             "id_student": "1857010328",
             "time": "c",
             "phone": "0917491503",
-            "id_code": "20CYT-087",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-087"
         },
         {
             "id": "88",
@@ -1149,9 +962,7 @@
             "id_student": "2051012011",
             "time": "c",
             "phone": "0889379139",
-            "id_code": "20CYT-088",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-088"
         },
         {
             "id": "89",
@@ -1162,9 +973,7 @@
             "id_student": "1754010233",
             "time": "s",
             "phone": "0982123650",
-            "id_code": "20CYT-089",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-089"
         },
         {
             "id": "90",
@@ -1175,9 +984,7 @@
             "id_student": "1754010373",
             "time": "c",
             "phone": "0369242950",
-            "id_code": "20CYT-090",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-090"
         },
         {
             "id": "91",
@@ -1188,9 +995,7 @@
             "id_student": "1754010303",
             "time": "c",
             "phone": "0919691361",
-            "id_code": "20CYT-091",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-091"
         },
         {
             "id": "92",
@@ -1201,9 +1006,7 @@
             "id_student": "2051042106",
             "time": "s",
             "phone": "0794343317",
-            "id_code": "20CYT-092",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-092"
         },
         {
             "id": "93",
@@ -1214,9 +1017,7 @@
             "id_student": "1954052033",
             "time": "s",
             "phone": "0383308371",
-            "id_code": "20CYT-093",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-093"
         },
         {
             "id": "94",
@@ -1225,9 +1026,7 @@
             "name": "Thủy",
             "id_student": "1854080101",
             "time": "c",
-            "id_code": "20CYT-094",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-094"
         },
         {
             "id": "95",
@@ -1236,9 +1035,7 @@
             "name": "Quỳnh",
             "id_student": "1954052081",
             "time": "s",
-            "id_code": "20CYT-095",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-095"
         },
         {
             "id": "96",
@@ -1248,9 +1045,7 @@
             "faculty": "Khoa Công nghệ thông tin",
             "id_student": "1954052100",
             "time": "s",
-            "id_code": "20CYT-096",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-096"
         },
         {
             "id": "97",
@@ -1261,9 +1056,7 @@
             "id_student": "1954052007",
             "time": "s",
             "phone": "0702374606",
-            "id_code": "20CYT-097",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-097"
         },
         {
             "id": "98",
@@ -1274,9 +1067,7 @@
             "id_student": "1854020007",
             "time": "s",
             "phone": "0397256753",
-            "id_code": "20CYT-098",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-098"
         },
         {
             "id": "99",
@@ -1287,9 +1078,7 @@
             "id_student": "2054072100",
             "time": "s",
             "phone": "0386082411",
-            "id_code": "20CYT-099",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-099"
         },
         {
             "id": "100",
@@ -1300,8 +1089,7 @@
             "id_student": "1754010233",
             "time": "s",
             "phone": "0982123650",
-            "id_code": "20CYT-100",
-            "money": "25000"
+            "id_code": "20CYT-100"
         },
         {
             "id": "101",
@@ -1310,11 +1098,9 @@
             "name": "Huyền",
             "faculty": "Khoa Luật",
             "id_student": "2054060179",
-            "time": "c",
+            "time": "s",
             "phone": "0946367314",
-            "id_code": "20CYT-101",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-101"
         },
         {
             "id": "102",
@@ -1325,9 +1111,7 @@
             "id_student": "1854040086",
             "time": "s",
             "phone": "0969415747",
-            "id_code": "20CYT-102",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-102"
         },
         {
             "id": "103",
@@ -1338,9 +1122,7 @@
             "id_student": "1854040276",
             "time": "s",
             "phone": "0379078276",
-            "id_code": "20CYT-103",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-103"
         },
         {
             "id": "104",
@@ -1351,9 +1133,7 @@
             "id_student": "2054062039",
             "time": "s",
             "phone": "0337088756",
-            "id_code": "20CYT-104",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-104"
         },
         {
             "id": "105",
@@ -1364,9 +1144,7 @@
             "id_student": "1854050023",
             "time": "s",
             "phone": "0865564263",
-            "id_code": "20CYT-105",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-105"
         },
         {
             "id": "106",
@@ -1377,9 +1155,7 @@
             "id_student": "1657010058",
             "time": "s",
             "phone": "0909809820",
-            "id_code": "20CYT-106",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-106"
         },
         {
             "id": "107",
@@ -1390,9 +1166,7 @@
             "id_student": "1854100058",
             "time": "s",
             "phone": "0963157703",
-            "id_code": "20CYT-107",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-107"
         },
         {
             "id": "108",
@@ -1403,9 +1177,7 @@
             "id_student": "1854100063",
             "time": "s",
             "phone": "0334554285",
-            "id_code": "20CYT-108",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-108"
         },
         {
             "id": "109",
@@ -1416,9 +1188,7 @@
             "id_student": "1854010041",
             "time": "c",
             "phone": "0866517402",
-            "id_code": "20CYT-109",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-109"
         },
         {
             "id": "110",
@@ -1429,9 +1199,7 @@
             "id_student": "1857010371",
             "time": "s",
             "phone": "0352441830",
-            "id_code": "20CYT-110",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-110"
         },
         {
             "id": "111",
@@ -1442,9 +1210,7 @@
             "id_student": "1754040198",
             "time": "s",
             "phone": "0902756941",
-            "id_code": "20CYT-111",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-111"
         },
         {
             "id": "112",
@@ -1455,9 +1221,7 @@
             "id_student": "2054082048",
             "time": "c",
             "phone": "0352329316",
-            "id_code": "20CYT-112",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-112"
         },
         {
             "id": "113",
@@ -1468,9 +1232,7 @@
             "id_student": "2051012060",
             "time": "c",
             "phone": "0853890850",
-            "id_code": "20CYT-113",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-113"
         },
         {
             "id": "114",
@@ -1481,9 +1243,7 @@
             "id_student": "1854030236",
             "time": "s",
             "phone": "0762647563",
-            "id_code": "20CYT-114",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-114"
         },
         {
             "id": "115",
@@ -1494,9 +1254,7 @@
             "id_student": "1854030232",
             "time": "s",
             "phone": "0397685275",
-            "id_code": "20CYT-115",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-115"
         },
         {
             "id": "116",
@@ -1507,9 +1265,7 @@
             "id_student": "1754070069",
             "time": "s",
             "phone": "0902634698",
-            "id_code": "20CYT-116",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-116"
         },
         {
             "id": "117",
@@ -1520,9 +1276,7 @@
             "id_student": "1951052238",
             "time": "s",
             "phone": "0949048542",
-            "id_code": "20CYT-117",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-117"
         },
         {
             "id": "118",
@@ -1533,9 +1287,7 @@
             "id_student": "2051012075",
             "time": "s",
             "phone": "0938053864",
-            "id_code": "20CYT-118",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-118"
         },
         {
             "id": "119",
@@ -1546,9 +1298,7 @@
             "id_student": "1854100039",
             "time": "s",
             "phone": "0937594412",
-            "id_code": "20CYT-119",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-119"
         },
         {
             "id": "120",
@@ -1557,9 +1307,7 @@
             "name": "Nga",
             "id_student": "0",
             "time": "c",
-            "id_code": "20CYT-120",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-120"
         },
         {
             "id": "121",
@@ -1570,9 +1318,7 @@
             "id_student": "2051052088",
             "time": "c",
             "phone": "0339430212",
-            "id_code": "20CYT-121",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-121"
         },
         {
             "id": "122",
@@ -1583,9 +1329,7 @@
             "id_student": "1751012088",
             "time": "c",
             "phone": "0979541934",
-            "id_code": "20CYT-122",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-122"
         },
         {
             "id": "123",
@@ -1596,9 +1340,7 @@
             "id_student": "1954092009",
             "time": "s",
             "phone": "0943048270",
-            "id_code": "20CYT-123",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-123"
         },
         {
             "id": "124",
@@ -1609,9 +1351,7 @@
             "id_student": "1754010354",
             "time": "s",
             "phone": "0373435994",
-            "id_code": "20CYT-124",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-124"
         },
         {
             "id": "125",
@@ -1622,9 +1362,7 @@
             "id_student": "1954092035",
             "time": "s",
             "phone": "0764571898",
-            "id_code": "20CYT-125",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-125"
         },
         {
             "id": "126",
@@ -1634,9 +1372,7 @@
             "faculty": "Khoa Tài chính - Ngân hàng",
             "id_student": "1854030214",
             "phone": "0786361417",
-            "id_code": "20CYT-126",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-126"
         },
         {
             "id": "127",
@@ -1647,9 +1383,7 @@
             "id_student": "1854020146",
             "time": "c",
             "phone": "0888246272",
-            "id_code": "20CYT-127",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-127"
         },
         {
             "id": "128",
@@ -1660,9 +1394,7 @@
             "id_student": "1854080105",
             "time": "s",
             "phone": "0329700904",
-            "id_code": "20CYT-128",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-128"
         },
         {
             "id": "129",
@@ -1673,9 +1405,7 @@
             "id_student": "2054012211",
             "time": "s",
             "phone": "0868959541",
-            "id_code": "20CYT-129",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-129"
         },
         {
             "id": "130",
@@ -1686,9 +1416,7 @@
             "id_student": "1654020061",
             "time": "c",
             "phone": "0935668975",
-            "id_code": "20CYT-130",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-130"
         },
         {
             "id": "131",
@@ -1699,9 +1427,7 @@
             "id_student": "1854080071",
             "time": "s",
             "phone": "0915300863",
-            "id_code": "20CYT-131",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-131"
         },
         {
             "id": "132",
@@ -1712,9 +1438,7 @@
             "id_student": "1854010209",
             "time": "s",
             "phone": "0357179021",
-            "id_code": "20CYT-132",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-132"
         },
         {
             "id": "133",
@@ -1725,9 +1449,7 @@
             "id_student": "2057012090",
             "time": "s",
             "phone": "0388995291",
-            "id_code": "20CYT-133",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-133"
         },
         {
             "id": "134",
@@ -1738,9 +1460,7 @@
             "id_student": "2057012103",
             "time": "s",
             "phone": "0858277257",
-            "id_code": "20CYT-134",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-134"
         },
         {
             "id": "135",
@@ -1751,9 +1471,7 @@
             "id_student": "1951012084",
             "time": "s",
             "phone": "0776375609",
-            "id_code": "20CYT-135",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-135"
         },
         {
             "id": "136",
@@ -1764,9 +1482,7 @@
             "id_student": "1551020103",
             "time": "s",
             "phone": "0931812476",
-            "id_code": "20CYT-136",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-136"
         },
         {
             "id": "137",
@@ -1777,9 +1493,7 @@
             "id_student": "2054032346",
             "time": "s",
             "phone": "0908482077",
-            "id_code": "20CYT-137",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-137"
         },
         {
             "id": "138",
@@ -1790,9 +1504,7 @@
             "id_student": "1854080091",
             "time": "s",
             "phone": "0362935638",
-            "id_code": "20CYT-138",
-            "money": "25000",
-            "note": "Momo"
+            "id_code": "20CYT-138"
         },
         {
             "id": "139",
@@ -1803,9 +1515,7 @@
             "id_student": "2054082024",
             "time": "s",
             "phone": "0398303846",
-            "id_code": "20CYT-139",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-139"
         },
         {
             "id": "140",
@@ -1816,8 +1526,7 @@
             "id_student": "1754080056",
             "time": "s",
             "phone": "0365516552",
-            "id_code": "20CYT-140",
-            "money": "25000"
+            "id_code": "20CYT-140"
         },
         {
             "id": "141",
@@ -1828,9 +1537,7 @@
             "id_student": "1954022013",
             "time": "s",
             "phone": "0332808423",
-            "id_code": "20CYT-141",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-141"
         },
         {
             "id": "142",
@@ -1841,9 +1548,7 @@
             "id_student": "1957012227",
             "time": "c",
             "phone": "0384879451",
-            "id_code": "20CYT-142",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-142"
         },
         {
             "id": "143",
@@ -1854,9 +1559,7 @@
             "id_student": "1954042240",
             "time": "c",
             "phone": "0394746854",
-            "id_code": "20CYT-143",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-143"
         },
         {
             "id": "144",
@@ -1867,9 +1570,7 @@
             "id_student": "1957012085",
             "time": "c",
             "phone": "0359267367",
-            "id_code": "20CYT-144",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-144"
         },
         {
             "id": "145",
@@ -1880,9 +1581,7 @@
             "id_student": "1954080105",
             "time": "s",
             "phone": "0924121703",
-            "id_code": "20CYT-145",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-145"
         },
         {
             "id": "146",
@@ -1893,9 +1592,7 @@
             "id_student": "1954082016",
             "time": "s",
             "phone": "0924873588",
-            "id_code": "20CYT-146",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-146"
         },
         {
             "id": "147",
@@ -1906,9 +1603,7 @@
             "id_student": "2054132065",
             "time": "s",
             "phone": "0879436076",
-            "id_code": "20CYT-147",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-147"
         },
         {
             "id": "148",
@@ -1919,9 +1614,7 @@
             "id_student": "1951012100",
             "time": "s",
             "phone": "0362348623",
-            "id_code": "20CYT-148",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-148"
         },
         {
             "id": "149",
@@ -1932,9 +1625,7 @@
             "id_student": "1957010200",
             "time": "s",
             "phone": "0337013094",
-            "id_code": "20CYT-149",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-149"
         },
         {
             "id": "150",
@@ -1945,9 +1636,7 @@
             "id_student": "2054072123",
             "time": "c",
             "phone": "0359907381",
-            "id_code": "20CYT-150",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-150"
         },
         {
             "id": "151",
@@ -1958,9 +1647,62 @@
             "id_student": "2051022078",
             "time": "c",
             "phone": "0384792943",
-            "id_code": "20CYT-151",
-            "money": "25000",
-            "note": "Tiền mặt"
+            "id_code": "20CYT-151"
+        },
+        {
+            "id": "152",
+            "email": "trinhnguyen23072001@gmail.com",
+            "firstname": "Nguyễn Thị Mai ",
+            "name": "Trinh",
+            "faculty": "Khoa Quản trị kinh doanh",
+            "id_student": "1954082094",
+            "time": "c",
+            "phone": "0914594505",
+            "id_code": "20CYT-152"
+        },
+        {
+            "id": "153",
+            "email": "minhoanhnq@gmail.com",
+            "firstname": "Nguyễn Thị Minh",
+            "name": "Oanh",
+            "faculty": "Khoa Đào tạo đặc biệt",
+            "id_student": "19FL132007",
+            "time": "c",
+            "phone": "0934444377",
+            "id_code": "20CYT-153"
+        },
+        {
+            "id": "154",
+            "email": "porinxit24042k2@gmail.com",
+            "firstname": "Dư Thị Mỹ",
+            "name": "Uyên",
+            "faculty": "Khoa Quản trị kinh doanh",
+            "id_student": "2054082116",
+            "time": "s",
+            "phone": "0394367408",
+            "id_code": "20CYT-154"
+        },
+        {
+            "id": "155",
+            "email": "1754040220tran@ou.edu.vn",
+            "firstname": "Nguyễn Thị Huyền",
+            "name": "Trân",
+            "faculty": "Khoa Kế toán - Kiểm toán",
+            "id_student": "1754040220",
+            "time": "c",
+            "phone": "0395377500",
+            "id_code": "20CYT-155"
+        },
+        {
+            "id": "156",
+            "email": "1957012105khang@ou.edu.vn",
+            "firstname": "Trần Lê ",
+            "name": "Khang",
+            "faculty": "Khoa Ngoại ngữ",
+            "id_student": "1957012105",
+            "time": "s",
+            "phone": "0933795301",
+            "id_code": "20CYT-156"
         }
     ]
 }

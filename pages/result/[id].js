@@ -43,6 +43,11 @@ export default function KetQua({ Header }) {
                                             : 'Ca chiều 14g bắt đầu thi'}
                                     </p>
                                     <p class="card-text">
+                                        <b>Phòng thi: </b>
+                                        NK.207
+                                    </p>
+
+                                    <p class="card-text">
                                         <b>Mã dự thi: </b>
                                         {info.id_code}
                                     </p>
@@ -55,7 +60,15 @@ export default function KetQua({ Header }) {
                                 'Vui lòng không tải lại trang này!!!'
                             )}
                             <div class="alert alert-danger" role="alert">
-                                Các bạn nhớ đến sớm hơn từ 20-30 phút
+                                <p>
+                                    Các bạn nhớ đến sớm hơn từ 20-30 phút để
+                                    checkin nha
+                                </p>
+                                <p>
+                                    Và nhớ mang theo thẻ sinh viên (nếu có) để
+                                    check bằng máy
+                                </p>
+                                <p>Đi đúng ca nhé</p>
                             </div>
                             <Link href="/" class="w-100 btn btn-primary">
                                 Go back
